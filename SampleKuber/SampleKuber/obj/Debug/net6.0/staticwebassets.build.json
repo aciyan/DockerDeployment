@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dDu1jEfOVjNieLpneizgnpE/0EFTtXDGZ4vKo/pxSK0=",
+  "Source": "SampleKuber",
+  "BasePath": "_content/SampleKuber",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

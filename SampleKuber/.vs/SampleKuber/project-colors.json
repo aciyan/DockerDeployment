@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "385b37d5-4a43-480d-8113-5b1240719339": {
+      "ProjectGuid": "385b37d5-4a43-480d-8113-5b1240719339",
+      "DisplayName": "SampleKuber",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
